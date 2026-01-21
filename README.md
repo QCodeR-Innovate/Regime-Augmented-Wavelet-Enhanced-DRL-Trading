@@ -7,7 +7,7 @@
 A novel algorithmic trading architecture that integrates **Wavelet Denoising**, **Probabilistic Regime Inference (HMM)**, and **Deep Reinforcement Learning (PPO)**. This system decouples signal processing from decision-making, allowing the agent to dynamically adapt its aggression based on latent market states.
 
 ## 📄 Key Resources
-* **[Read the Full Whitepaper (PDF)](./papers/Regime-Augmented Wavelet Enhanced DRL Trading.pdf)** – Detailed methodology, mathematical formulation, and stress test results.
+* **[Read the Full Whitepaper (PDF)](./papers/Regime_Augmented_Wavelet_Enhanced_DRL_Whitepaper.pdf)** – Detailed methodology, mathematical formulation, and stress test results.
 * **[View the Implementation Code](./Regime_Aware_Wavelet_Enhanced_DRL_Trading.ipynb)** – Complete Python notebook including data pipeline, HMM training, and PPO agent execution.
 
 ---
